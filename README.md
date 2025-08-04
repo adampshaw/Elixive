@@ -13,4 +13,4 @@
   Deployment: Docker, Vercel (frontend), Render (backend)
 
 💡 Why Elixive?
-  Elixive isn’t just another resume tool — it’s an adaptive AI editor that understands your goals, refines your professional identity, and helps you tell your story more effectively.
+  Elixive isn’t just another resume tool — it’s an adaptive AI editor that understands your goals, refines your 					professional identity, and helps you tell your story more effectively.
